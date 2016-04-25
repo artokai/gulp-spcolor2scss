@@ -1,0 +1,32 @@
+{
+  "name": "gulp-spcolor2scss",
+  "description": "Convert SharePoint spcolor-files to Sass partials",
+  "version": "0.0.1",
+  "license": "MIT",
+  "author": "Arto Kaitosaari <arto.kaitosaari@gmail.com> (http://artokai.net/)",
+  "contributors": [
+      "Arto Kaitosaari <arto.kaitosaari@gmail.com> (http://artokai.net/)"      
+  ],
+  "homepage": "https://github.com/artokai/gulp-spcolor2scss",
+  "repository": "https://github.com/artokai/gulp-spcolor2scss.git",
+  "bugs": "https://github.com/artokai/gulp-spcolor2scss/issues",
+  "main": "index.js",
+  "keywords": [
+    "gulpplugin",
+    "sharepoint",
+    "spcolor",
+    "scss"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "gulp-util": "^3.0.7",
+    "through2": "^2.0.1",
+    "xmldoc": "^0.4.0"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-rename": "^1.2.2"
+  }
+}
