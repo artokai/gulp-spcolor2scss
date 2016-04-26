@@ -7,10 +7,8 @@ Convert SharePoint spcolor-files to Sass partials
 
 Install package with NPM and add it to your development dependencies:
 ```
-npm install --save-dev artokai/gulp-spcolor2scss
+npm install --save-dev gulp-spcolor2scss
 ```
-Currently the package needs to installed directly from this gitub repository,
-but it will be added to npm eventually.
 
 ## Basic usage
 
@@ -62,11 +60,6 @@ h1 {
     color: $spcolor_HeaderText;
 }
 ```
-
-## Todo:
-
-1. Add unit tests
-2. Publish as a npm package
 
 ## License
 This plugin is licensed using the [The MIT License (MIT)](LICENSE). 
