@@ -1,6 +1,8 @@
 # gulp-spcolor2scss
 Convert SharePoint spcolor-files to Sass partials
 
+[![Build Status](https://travis-ci.org/artokai/gulp-spcolor2scss.svg?branch=master)](https://travis-ci.org/artokai/gulp-spcolor2scss)
+
 ## Installation
 
 Install package with NPM and add it to your development dependencies:
